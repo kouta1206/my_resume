@@ -201,7 +201,7 @@ Railsの学習と趣味が映画鑑賞ですが、以前から鑑賞した映画
             <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-45b8d8?style=flat-square&logo=Vue.js&logoColor=white" />
         </p>
     - その他
-        -<p>
+        - <p>
               <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
                 <img alt="AWS" src="https://img.shields.io/badge/-AWS-CC0000?style=flat-square&logo=AWS&**logoColor****=white" />
                 <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-CC0000?style=flat-square&logo=CI/CD&**logoColor****=white" />

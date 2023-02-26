@@ -188,9 +188,9 @@
 
 ## ポートフォリオ
 Railsの学習と趣味が映画鑑賞ですが、以前から鑑賞した映画の記録Webアプリがあればなと、
-考えて折りました。今回を機に簡易的なWebアプリを作成してみました。
+考えておりました。今回の機会に簡易的なWebアプリを作成してみました。
 - 作成期間
-    - 1ヶ月
+    - 1ヶ月程度
 - 使用技術
     - バックエンド
         - <p>
@@ -207,5 +207,7 @@ Railsの学習と趣味が映画鑑賞ですが、以前から鑑賞した映画
                 <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-CC0000?style=flat-square&logo=CI/CD&**logoColor****=white" />
                 <img alt="jwt認証" src="https://img.shields.io/badge/-jwt認証-CC0000?style=flat-square&logo=jwt&**logoColor****=white" />
         </p>
+- URL（下記のURLになります）
+    - https://github.com/kouta1206/movie_record_app
 
 

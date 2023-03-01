@@ -1,0 +1,12 @@
+{
+    "name": "my_resume",
+    "version": "1.0.0",
+    "description": "my resume",
+    "scripts": {
+        "build:pdf": "md-to-pdf doc/README.md --config-file ./pdf-configs/config.js"
+    },
+    "keywords": [],
+    "devDependencies": {
+        "md-to-pdf": "^5.2.1"
+    }
+}
